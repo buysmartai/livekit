@@ -152,8 +152,8 @@ rtc:
 # Keys are used for JWT authentication, server APIs would require a keypair in order to generate access tokens
 # and make calls to the server
 keys:
-  key1: secret1
-  key2: secret2
+  APIjfn8HXaL9koMp: AwY+3IVkosJwMib1vdXndjvgHHOvZK0G4pUgL/AjlZs=
+  APIke7Qm2NpRtWx: FZdJFnevKqEauc8lf35f6pvynLgsx046TgiZcpg7tWo=
 # Logging config
 # logging:
 #   # log level, valid values: debug, info, warn, error
